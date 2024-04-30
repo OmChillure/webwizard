@@ -29,6 +29,6 @@ Open a new terminal and use the belwo code
 ```
 You arre all setup now you can view the website at your localhost and use the LLM model to generate text.
 
-Contributions 
+# Contributions 
 <br />
 ![Alt](https://repobeats.axiom.co/api/embed/a1f1af37358f7c00a738bed0943080b6d7b25912.svg "Repobeats analytics image")
