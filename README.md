@@ -28,3 +28,5 @@ Open a new terminal and use the belwo code
 3] npm run dev
 ```
 You arre all setup now you can view the website at your localhost and use the LLM model to generate text.
+
+![Alt](https://repobeats.axiom.co/api/embed/a1f1af37358f7c00a738bed0943080b6d7b25912.svg "Repobeats analytics image")
